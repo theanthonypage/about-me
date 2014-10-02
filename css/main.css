@@ -1,0 +1,41 @@
+body {
+  font-family:Trebuchet MS;
+  background-color:#E8E8E8;
+}
+
+h1 {
+  text-align:center;
+}
+.container {
+  max-width:40%;
+  margin-left:5em;
+  border:4px solid #37008A;
+  background-color:#BDFFFF;
+  border-radius:10px;
+  padding-left:2em;
+  padding-right:2em;
+}
+
+p {
+  text-indent:2em;
+}
+
+.footer {
+  max-width:40%;
+  margin-left:5em;
+  margin-top:1em;
+  border:4px solid #37008A;
+  background-color:#BDFFFF;
+  border-radius:10px;
+  padding-left:2em;
+  padding-right:2em;
+  height:3em;
+}
+
+.left {
+  float:left;
+}
+
+.right {
+  float:right;
+}
