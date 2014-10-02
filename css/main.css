@@ -15,6 +15,7 @@ h1 {
   border-radius:10px;
   padding-left:2em;
   padding-right:2em;
+  max-height:30em;
 }
 
 p {
